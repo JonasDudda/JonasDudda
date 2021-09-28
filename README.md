@@ -22,6 +22,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+---
+
 [![JonasDUdda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDudda&count_private=true&show_icons=true)](https://github.com/JonasDudda/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/jonas-dudda-01b6981a1/
