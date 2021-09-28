@@ -1,6 +1,6 @@
-### Hi, I'm Jonas Dudda
+## Hi, I'm Jonas Dudda
 
-## I'm a Data Science Student at University of Technology Cologne / TH-Köln
+### I'm a Data Science Student at University of Technology Cologne / TH-Köln
 
 - 🔭 I am interested in Data Analytics, Knowledge Discovery and Maschine Learning for technical systems
 - 🌱 I’m currently working on my bachelors degree
