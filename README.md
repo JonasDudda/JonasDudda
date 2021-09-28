@@ -31,7 +31,7 @@
 
 ---
 
-[![JonasDUdda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDudda&count_private=true&show_icons=true&theme=dark)](https://github.com/JonasDudda/github-readme-stats)
+[![JonasDUdda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDudda&count_private=true&show_icons=true&theme=onedark)](https://github.com/JonasDudda/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/jonas-dudda-01b6981a1/
 [xing]: https://www.xing.com/profile/Jonas_Dudda3
