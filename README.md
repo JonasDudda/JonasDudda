@@ -10,7 +10,7 @@
 ### Contact me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][xing]
-<i style="font-size:24px" class="fa">&#xf0e0; jonas.dudda@dudda-online.de</i>
+:e-mail: jonas.dudda@dudda-online.de
 
 <br />
 
