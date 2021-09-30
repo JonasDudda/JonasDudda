@@ -2,9 +2,9 @@
 
 ### I'm a Data Science Student at University of Technology Cologne / TH-Köln
 
-- 🔭 I am interested in Data Analytics, Knowledge Discovery and Maschine Learning for technical systems
-- 🌱 I’m currently working on my bachelors degree
-- 🥅 Goals: Complete a masters degree in Data Science, become a more exerienced developer, to gain technical and industry knowledge
+- 🔭 I am interested in Data Analytics, Knowledge Discovery and Maschine Learning, especially for technical systems
+- 🌱 I’m currently working on my bachelors degree in Data Science
+- 🥅 Goals: Complete a masters degree in Data Science, become a more experienced developer, to gain technical and industry knowledge
 - 🔋 My hobbies are playing guitar, producing music and to take advantage of cultural offers
 
 ### Contact me:
