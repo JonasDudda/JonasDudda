@@ -1,4 +1,4 @@
-## Hi, I'm Jonas Dudda
+## Hi there, I'm Jonas
 
 ### I'm a Data Science Student at University of Technology Cologne / TH-Köln
 
